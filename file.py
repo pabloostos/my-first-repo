@@ -1,3 +1,3 @@
-def sum(a, b):
+def potato(a, b):
     return a + b
 
